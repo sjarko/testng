@@ -11,24 +11,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
 public class NewTest {
-  @Test
-  public void f() {
-  }
-  @BeforeMethod
-  public void beforeMethod() {
-  }
-
-  @AfterMethod
-  public void afterMethod() {
-  }
-
-  @BeforeClass
-  public void beforeClass() {
-  }
-
-  @AfterClass
-  public void afterClass() {
-  }
+  
 
   @BeforeTest
   public void beforeTest() {
@@ -41,12 +24,6 @@ public class NewTest {
   public void afterTest() {
   }
 
-  @BeforeSuite
-  public void beforeSuite() {
-  }
-
-  @AfterSuite
-  public void afterSuite() {
-  }
+ 
 
 }
