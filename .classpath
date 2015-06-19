@@ -18,10 +18,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Automation_Team_Task_Local/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ярослав/Диск Google/Java Automation/Theme2_Learning_to_programm/Lesson 5/Lessons Practice/jars-for-lesson-practice/jars-for-lesson-practice/json-libraries/java-json.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
